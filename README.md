@@ -1,6 +1,6 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC94A,50:FF9900,100:FFC94A&height=220&section=header&text=NICOLAS%20GATTA&fontSize=48&fontColor=2B1B00&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Warrior%20of%20Sunlight%20%2F%20Data Engineer%20%2F%20IBM&descAlign=50&descAlignY=0&descSize=18" width="100%"/>
+  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC94A,50:FF9900,100:FFC94A&height=220&section=header&text=NICOLAS%20GATTA&fontSize=48&fontColor=2B1B00&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Warrior%20of%20Sunlight%20%2F%20Data%20Engineer%20%2F%20IBM&descAlign=50&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&height=50&lines=Praise+the+Sun+%5CT%2F;If+only+I+could+be+so+grossly+incandescent;Jolly+cooperation%2C+always;Building+with+Python%2C+React+%26+ML;The+sun+is+a+wondrous+body%2C+like+a+solid+code+base" alt="Typing SVG" />
 <div>
