@@ -1,102 +1,192 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4334074e.gif)My name is Nicolas
-===============================================================================================================================
+<div align="center">
 
-Fullstack Developper and AI specialist
---------------------------------------
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC94A,50:FF9900,100:FFC94A&height=220&section=header&text=NICOLAS%20GATTA&fontSize=48&fontColor=2B1B00&fontAlign=50&fontAlignY=38&animation=fadeIn&desc=Warrior%20of%20Sunlight%20%2F%20Data Engineer%20%2F%20IBM&descAlign=50&descAlignY=0&descSize=18" width="100%"/>
 
-*   🌍  I'm based in Belgium
-*   ✉️  You can contact me at [nicolasgatta1@gmail.com](mailto:nicolasgatta1@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=24&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=650&height=50&lines=Praise+the+Sun+%5CT%2F;If+only+I+could+be+so+grossly+incandescent;Jolly+cooperation%2C+always;Building+with+Python%2C+React+%26+ML;The+sun+is+a+wondrous+body%2C+like+a+solid+code+base" alt="Typing SVG" />
+<div>
+<img src="https://komarev.com/ghpvc/?username=nicolas-gatta&label=Sun%20Bros%20Summoned&color=FF8C00&style=for-the-badge&labelColor=FFC94A" />
+</div>
+<img src="solaire_pixel.gif" alt="pixel art Solaire praising the sun" width="180"/>
 
-## Technologies Stacks
+</div>
 
-### Programming Languages
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="40" height="40" alt="JavaScript" /></a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="40" height="40" alt="Java"/></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="40" height="40" alt="TypeScript"/></a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a> 
-</p>
+<table align="center" width="100%">
+<tr>
+<td width="100%">
 
-### Mobile App Development
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/></a> 
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE29A,100:FF8C00&height=70&section=header&text=About%20Me&fontSize=24&fontColor=3B2A18&fontAlign=50&fontAlignY=55&animation=fadeIn&width=650" width="800"/>
+</div>
 
-### Front End
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="40" height="40" alt="Bootstrap" /></a>
-  </p>
+> *"If only I could be so grossly incandescent."*
 
-### Backend
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></a>
-</p>
+- 🕯️ Currently escaping the shackles of proprietary tools, one open-source repo at a time
+- ⚔️ Seeking fellow sunlight warriors to co-op on **AI**, **ML**, **Data**, and **Full Stack** projects with real meaning
+- 📜 Studying towards Microsoft certifications in **Data Science**
+- 🗡️ Ask me about Souls games — I *will* talk your ear off about boss design
 
-### Database
-<p align="left">
-  <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="40" height="40" alt="Oracle" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="40" height="40" alt="MongoDB" /></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="40" height="40" alt="MySQL" /></a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="40" height="40" alt="PostgreSQL" /></a>
-</p>
+</td>
+</tr>
+</table>
 
-### Framework
-<p align="left">
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/></a> 
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/></a>
-</p>
+<div align="center">
 
-### Devops
-<p align ="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="40" height="40" alt="Amazon Web Services" /></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="40" height="40" alt="Docker" /></a>
-</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE29A,100:FF8C00&height=70&section=header&text=Warrior%20of%20Sunlight%20Covenant&fontSize=24&fontColor=3B2A18&fontAlign=50&fontAlignY=55&animation=fadeIn&width=800" width="800"/>
+</div>
 
+<a href="https://www.linkedin.com/in/nicolas-gatta/"><img src="https://img.shields.io/badge/LinkedIn-C9A063?style=flat-square&logo=linkedin&logoColor=3B2A18" height="30" alt="LinkedIn"/></a>
+<a href="mailto:nicolasgatta1@mail.com"><img src="https://img.shields.io/badge/Email-C9A063?style=flat-square&logo=gmail&logoColor=3B2A18" height="30" alt="Email"/></a>
 
-### AI/ML
-<p align="left">
-  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a> 
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/></a> 
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/></a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9900,100:FFC94A&height=3&width=850" width="70%"/>
 
-### Other
-<p align="left">
-  <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="40" height="40" alt="Linux" /></a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-</p>
-                    
-## Socials
-  
-                  
-  <p align="left">
-        <a href="https://www.github.com/nicolas-gatta" target="_blank" rel="noreferrer">
-      <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-      </picture>
+</div>
 
-## My GitHub Stats</b><br>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolas-gatta&theme=tokyonight" alt="nicolas-gatta" /></p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE29A,100:FF8C00&height=70&section=header&text=Sunlight%20Straight%20Sword%20-%20Languages&fontSize=24&fontColor=3B2A18&fontAlign=50&fontAlignY=55&animation=fadeIn&width=800" width="800"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolas-gatta&show_icons=true&theme=tokyonight" alt="nicolas-gatta" /></p>
+<div align="center">
 
+<img src="https://img.shields.io/badge/c-C9A063.svg?style=flat-square&logo=c&logoColor=3B2A18" height="30" alt="C"/>
+<img src="https://img.shields.io/badge/c%23-A67C3D.svg?style=flat-square&logo=csharp&logoColor=3B2A18" height="30" alt="C#"/>
+<img src="https://img.shields.io/badge/python-C9A063.svg?style=flat-square&logo=python&logoColor=3B2A18" height="30" alt="Python"/>
+<img src="https://img.shields.io/badge/java-A67C3D.svg?style=flat-square&logo=openjdk&logoColor=3B2A18" height="30" alt="Java"/>
+<img src="https://img.shields.io/badge/javascript-C9A063.svg?style=flat-square&logo=javascript&logoColor=3B2A18" height="30" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/typescript-A67C3D.svg?style=flat-square&logo=typescript&logoColor=3B2A18" height="30" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/dart-C9A063.svg?style=flat-square&logo=dart&logoColor=3B2A18" height="30" alt="Dart"/>
+<img src="https://img.shields.io/badge/html5-A67C3D.svg?style=flat-square&logo=html5&logoColor=3B2A18" height="30" alt="HTML5"/>
+<img src="https://img.shields.io/badge/css3-C9A063.svg?style=flat-square&logo=css3&logoColor=3B2A18" height="30" alt="CSS3"/>
+<img src="https://img.shields.io/badge/latex-A67C3D.svg?style=flat-square&logo=latex&logoColor=3B2A18" height="30" alt="LaTeX"/>
+
+</div>
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE29A,100:FF8C00&height=70&section=header&text=Sunlight%20Shield%20-%20Frameworks%20and%20Libraries&fontSize=24&fontColor=3B2A18&fontAlign=50&fontAlignY=55&animation=fadeIn&width=800" width="800"/>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/react-C9A063.svg?style=flat-square&logo=react&logoColor=3B2A18" height="30" alt="React"/>
+<img src="https://img.shields.io/badge/react_native-A67C3D.svg?style=flat-square&logo=react&logoColor=3B2A18" height="30" alt="React Native"/>
+<img src="https://img.shields.io/badge/react_router-C9A063.svg?style=flat-square&logo=react-router&logoColor=3B2A18" height="30" alt="React Router"/>
+<img src="https://img.shields.io/badge/react_query-A67C3D.svg?style=flat-square&logo=react-query&logoColor=3B2A18" height="30" alt="React Query"/>
+<img src="https://img.shields.io/badge/react_hook_form-C9A063.svg?style=flat-square&logo=reacthookform&logoColor=3B2A18" height="30" alt="React Hook Form"/>
+<img src="https://img.shields.io/badge/angular-A67C3D.svg?style=flat-square&logo=angular&logoColor=3B2A18" height="30" alt="Angular"/>
+<img src="https://img.shields.io/badge/flutter-C9A063.svg?style=flat-square&logo=flutter&logoColor=3B2A18" height="30" alt="Flutter"/>
+<img src="https://img.shields.io/badge/electron-A67C3D.svg?style=flat-square&logo=electron&logoColor=3B2A18" height="30" alt="Electron"/>
+<img src="https://img.shields.io/badge/django-C9A063.svg?style=flat-square&logo=django&logoColor=3B2A18" height="30" alt="Django"/>
+<img src="https://img.shields.io/badge/django_rest-A67C3D.svg?style=flat-square&logo=django&logoColor=3B2A18" height="30" alt="Django REST"/>
+<img src="https://img.shields.io/badge/flask-C9A063.svg?style=flat-square&logo=flask&logoColor=3B2A18" height="30" alt="Flask"/>
+<img src="https://img.shields.io/badge/fastapi-A67C3D.svg?style=flat-square&logo=fastapi&logoColor=3B2A18" height="30" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/node.js-C9A063.svg?style=flat-square&logo=node.js&logoColor=3B2A18" height="30" alt="Node.js"/>
+<img src="https://img.shields.io/badge/tailwindcss-A67C3D.svg?style=flat-square&logo=tailwind-css&logoColor=3B2A18" height="30" alt="TailwindCSS"/>
+<img src="https://img.shields.io/badge/jwt-C9A063.svg?style=flat-square&logo=jsonwebtokens&logoColor=3B2A18" height="30" alt="JWT"/>
+<img src="https://img.shields.io/badge/vite-A67C3D.svg?style=flat-square&logo=vite&logoColor=3B2A18" height="30" alt="Vite"/>
+<img src="https://img.shields.io/badge/gunicorn-C9A063.svg?style=flat-square&logo=gunicorn&logoColor=3B2A18" height="30" alt="Gunicorn"/>
+
+</div>
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE29A,100:FF8C00&height=70&section=header&text=Sunlight%20Spear%20-%20Data%2C%20AI%20and%20ML&fontSize=24&fontColor=3B2A18&fontAlign=50&fontAlignY=55&animation=fadeIn&width=800" width="800"/>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/pytorch-C9A063.svg?style=flat-square&logo=pytorch&logoColor=3B2A18" height="30" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/tensorflow-A67C3D.svg?style=flat-square&logo=tensorflow&logoColor=3B2A18" height="30" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/keras-C9A063.svg?style=flat-square&logo=keras&logoColor=3B2A18" height="30" alt="Keras"/>
+<img src="https://img.shields.io/badge/scikit--learn-A67C3D.svg?style=flat-square&logo=scikit-learn&logoColor=3B2A18" height="30" alt="scikit--learn"/>
+<img src="https://img.shields.io/badge/opencv-C9A063.svg?style=flat-square&logo=opencv&logoColor=3B2A18" height="30" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/numpy-A67C3D.svg?style=flat-square&logo=numpy&logoColor=3B2A18" height="30" alt="NumPy"/>
+<img src="https://img.shields.io/badge/pandas-C9A063.svg?style=flat-square&logo=pandas&logoColor=3B2A18" height="30" alt="Pandas"/>
+<img src="https://img.shields.io/badge/scipy-A67C3D.svg?style=flat-square&logo=scipy&logoColor=3B2A18" height="30" alt="SciPy"/>
+<img src="https://img.shields.io/badge/matplotlib-C9A063.svg?style=flat-square&logo=matplotlib&logoColor=3B2A18" height="30" alt="Matplotlib"/>
+<img src="https://img.shields.io/badge/mlflow-A67C3D.svg?style=flat-square&logo=numpy&logoColor=3B2A18" height="30" alt="MLflow"/>
+<img src="https://img.shields.io/badge/cuda-C9A063.svg?style=flat-square&logo=nvidia&logoColor=3B2A18" height="30" alt="CUDA"/>
+
+</div>
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE29A,100:FF8C00&height=70&section=header&text=Anor%20Londo%20-%20Infrastructure%20and%20Tools&fontSize=24&fontColor=3B2A18&fontAlign=50&fontAlignY=55&animation=fadeIn&width=800" width="800"/>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/aws-C9A063.svg?style=flat-square&logo=amazon-aws&logoColor=3B2A18" height="30" alt="AWS"/>
+<img src="https://img.shields.io/badge/google_cloud-A67C3D.svg?style=flat-square&logo=google-cloud&logoColor=3B2A18" height="30" alt="Google Cloud"/>
+<img src="https://img.shields.io/badge/ovh-C9A063.svg?style=flat-square&logo=ovh&logoColor=3B2A18" height="30" alt="OVH"/>
+<img src="https://img.shields.io/badge/cloudflare-A67C3D.svg?style=flat-square&logo=cloudflare&logoColor=3B2A18" height="30" alt="Cloudflare"/>
+<img src="https://img.shields.io/badge/docker-C9A063.svg?style=flat-square&logo=docker&logoColor=3B2A18" height="30" alt="Docker"/>
+<img src="https://img.shields.io/badge/mysql-A67C3D.svg?style=flat-square&logo=mysql&logoColor=3B2A18" height="30" alt="MySQL"/>
+<img src="https://img.shields.io/badge/postgres-C9A063.svg?style=flat-square&logo=postgresql&logoColor=3B2A18" height="30" alt="Postgres"/>
+<img src="https://img.shields.io/badge/sqlite-A67C3D.svg?style=flat-square&logo=sqlite&logoColor=3B2A18" height="30" alt="SQLite"/>
+<img src="https://img.shields.io/badge/git-C9A063.svg?style=flat-square&logo=git&logoColor=3B2A18" height="30" alt="Git"/>
+<img src="https://img.shields.io/badge/github-A67C3D.svg?style=flat-square&logo=github&logoColor=3B2A18" height="30" alt="GitHub"/>
+<img src="https://img.shields.io/badge/gitlab-C9A063.svg?style=flat-square&logo=gitlab&logoColor=3B2A18" height="30" alt="GitLab"/>
+<img src="https://img.shields.io/badge/raspberry_pi-A67C3D.svg?style=flat-square&logo=raspberry-pi&logoColor=3B2A18" height="30" alt="Raspberry Pi"/>
+<img src="https://img.shields.io/badge/home_assistant-C9A063.svg?style=flat-square&logo=home-assistant&logoColor=3B2A18" height="30" alt="Home Assistant"/>
+<img src="https://img.shields.io/badge/wireguard-A67C3D.svg?style=flat-square&logo=wireguard&logoColor=3B2A18" height="30" alt="Wireguard"/>
+<img src="https://img.shields.io/badge/figma-C9A063.svg?style=flat-square&logo=figma&logoColor=3B2A18" height="30" alt="Figma"/>
+<img src="https://img.shields.io/badge/arduino-A67C3D.svg?style=flat-square&logo=arduino&logoColor=3B2A18" height="30" alt="Arduino"/>
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9900,100:FFC94A&height=3&width=850" width="70%"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE29A,100:FF8C00&height=70&section=header&text=The%20Sunlight%20Record%20-%20GitHub%20Stats&fontSize=24&fontColor=3B2A18&fontAlign=50&fontAlignY=55&animation=fadeIn&width=800" width="800"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.shion.dev/api?username=nicolas-gatta&theme=solarized-dark&hide_border=true&bg_color=FFF3D6&title_color=CC6600&text_color=5A3D00&icon_color=FF8C00&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=nicolas-gatta&theme=solarized-dark&hide_border=true&bg_color=FFF3D6&title_color=CC6600&text_color=5A3D00&layout=compact&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=nicolas-gatta&theme=default&hide_border=true&background=FFF3D6&ring=FF8C00&fire=FF8C00&currStreakLabel=CC6600&sideLabels=5A3D00&dates=8A6D3A" height="180"/>
+
+</div>
+<br>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE29A,100:FF8C00&height=70&section=header&text=Sunlight%20Medals%20-%20Trophies&fontSize=24&fontColor=3B2A18&fontAlign=50&fontAlignY=55&animation=fadeIn&width=800" width="800"/>
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=nicolas-gatta&theme=gold&no-frame=true&no-bg=true&margin-w=8&row=1&column=6)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE29A,100:FF8C00&height=70&section=header&text=The%20Sunbeam%20Path%20-%20Contribution%20Snake&fontSize=24&fontColor=3B2A18&fontAlign=50&fontAlignY=55&animation=fadeIn&width=800" width="800"/>
+</div>
+
+<div align="center">
+
+<!--START_SECTION:waves-->
+<img src="https://raw.githubusercontent.com/nicolas-gatta/nicolas-gatta/output/snake-solaire.svg" alt="contribution snake" width="100%"/>
+<!--END_SECTION:waves-->
+
+</div>
+
+<div align="center">
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FFE29A,100:FF8C00&height=50&section=header&text=Praise%20Be&fontSize=18&fontColor=3B2A18&fontAlign=50&fontAlignY=55&animation=fadeIn&width=800" width="800"/>
+</div>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=light" width="450"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFC94A,50:FF9900,100:FFC94A&height=120&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
